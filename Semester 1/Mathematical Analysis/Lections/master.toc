@@ -1,0 +1,21 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Построение множества вещественных чисел}{2}{}%
+\contentsline {section}{\numberline {1.1}Множество}{2}{}%
+\contentsline {section}{\numberline {1.2}Сечения}{2}{}%
+\contentsline {section}{\numberline {1.3}Сумма сечений}{3}{}%
+\contentsline {section}{\numberline {1.4}Теоремы сечений}{4}{}%
+\contentsline {chapter}{\numberline {2}Вещественные числа}{8}{}%
+\contentsline {section}{\numberline {2.1}Супремумы и инфимумы}{9}{}%
+\contentsline {section}{\numberline {2.2}Неравенство Бернулли}{11}{}%
+\contentsline {section}{\numberline {2.3}Определение степени и логарифма}{11}{}%
+\contentsline {chapter}{\numberline {3}Последовательности}{12}{}%
+\contentsline {section}{\numberline {3.1}Сопоставление вещественным числам десятичных дробей}{12}{}%
+\contentsline {section}{\numberline {3.2}Предел последовательности}{13}{}%
+\contentsline {section}{\numberline {3.3}Арифметические операции над пределами}{14}{}%
+\contentsline {chapter}{\numberline {4}Алгоритмы}{15}{}%
+\contentsline {section}{\numberline {4.1}Продолжение}{15}{}%
+\contentsline {section}{\numberline {4.2}Число $e$}{20}{}%
+\contentsline {section}{\numberline {4.3}Критерий Коши, существование конечного предела последовательности}{23}{}%
+\contentsline {section}{\numberline {4.4}Подпоследовательности}{26}{}%
+\contentsline {section}{\numberline {4.5}Верхний и нижний предел последовательности}{31}{}%
+\contentsline {section}{\numberline {4.6}Свойства верхних и нижних пределов}{33}{}%
