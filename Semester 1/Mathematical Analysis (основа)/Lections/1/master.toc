@@ -1,0 +1,6 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Построение множества вещественных чисел}{2}{}%
+\contentsline {section}{\numberline {1.1}Множество}{2}{}%
+\contentsline {section}{\numberline {1.2}Сечения}{2}{}%
+\contentsline {section}{\numberline {1.3}Сумма сечений}{3}{}%
+\contentsline {section}{\numberline {1.4}Теоремы сечений}{4}{}%
